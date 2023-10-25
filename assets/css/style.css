@@ -285,7 +285,7 @@ main .circleContainer .circle p {
 }
 @media screen and (min-width: 0) {
   main .circleContainer .circle p {
-    font-size: 21px;
+    font-size: 19px;
   }
 }
 @media screen and (min-width: 610px) {

@@ -130,6 +130,7 @@ include 'include/header.php';
             </p>
 
             <br/><br/><a href="services.php">Découvrir les services →</a>
+            <br/><br/><br/>
         </article>
     </section>
 
