@@ -205,8 +205,8 @@ main .circleContainer .circle {
 }
 @media screen and (min-width: 0) {
   main .circleContainer .circle {
-    width: 350px;
-    height: 350px;
+    width: 360px;
+    height: 360px;
     margin-bottom: 2rem;
   }
 }
@@ -237,21 +237,21 @@ main .circleContainer .circle {
 }
 @media screen and (min-width: 0) {
   main .circleContainer .circle img {
-    margin-top: 2rem;
+    margin-top: 0.5rem;
     width: 80px;
     height: 80px;
   }
 }
 @media screen and (min-width: 1000px) {
   main .circleContainer .circle img {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     width: 70px;
     height: 70px;
   }
 }
 @media screen and (min-width: 1130px) {
   main .circleContainer .circle img {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     width: 80px;
     height: 80px;
   }
@@ -261,25 +261,25 @@ main .circleContainer .circle h3 {
 }
 @media screen and (min-width: 0) {
   main .circleContainer .circle h3 {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     font-size: 25px;
   }
 }
 @media screen and (min-width: 1000px) {
   main .circleContainer .circle h3 {
-    margin-top: 0.6rem;
+    margin-top: 0.5rem;
     font-size: 23px;
   }
 }
 @media screen and (min-width: 1130px) {
   main .circleContainer .circle h3 {
-    margin-top: 1rem;
+    margin-top: 0.7rem;
     font-size: 25px;
   }
 }
 main .circleContainer .circle p {
-  width: 90%;
-  margin: 1rem auto 0;
+  width: 80%;
+  margin: 0.6rem auto 0;
   text-align: center;
   color: #FFFFFF;
 }
@@ -473,11 +473,6 @@ main .squareContainer .square p {
   font-weight: bold;
 }
 @media screen and (min-width: 0) {
-  main .squareContainer .square p {
-    font-size: 34px;
-  }
-}
-@media screen and (min-width: 1000px) {
   main .squareContainer .square p {
     font-size: 28px;
   }
